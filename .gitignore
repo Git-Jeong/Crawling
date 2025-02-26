@@ -1,5 +1,6 @@
-# copyright 
+# copyright...
 *.csv
+pokemon/*
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
