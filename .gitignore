@@ -1,6 +1,9 @@
 # copyright...
 *.csv
+*.png
+*.jpg
 */pokemon/*
+/Study/youtube_list
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
@@ -66,5 +69,4 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk 
-*.png
+*.lnk   
